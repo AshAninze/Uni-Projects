@@ -18,12 +18,11 @@ My primary aim is to develop fair, unbiased, and impactful AI systems that can a
 
 ## 📚 Table of Contents
 
-* [Project: Bias Detection in Machine Learning Models](#project-bias-detection-in-machine-learning-models)
+* [Project: Bias Detection in Machine Learning Models]()
 * [Project: Brain Tumour Detection from MRI Scans](#project-brain-tumour-detection-from-mri-scans)
 * [Project: Credit Card Fraud Detection](#project-credit-card-fraud-detection)
 * [Project: Obesity Risk Estimation and Analysis](#project-project-obesity-risk-estimation-and-analysis)
 * [Technical Skills](#technical-skills)
-* [How to Run Projects](#how-to-run-projects)
 * [Connect With Me](#connect-with-me)
 
 ---
