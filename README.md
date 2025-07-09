@@ -31,15 +31,14 @@ My primary aim is to develop fair, unbiased, and impactful AI systems that can a
 
 ### ⚖️ Project: Bias Detection in Machine Learning Models
 
-* _University Course/Module: [Ethical AI, Responsible AI, AI Ethics & Society, Advanced Machine Learning]_
-    (Consider replacing this placeholder with the actual module name if you recall it!)
+* _University Module: [Individual Honours Project]_
 
 **Description:**
-This critical project delves deep into **bias detection within machine learning models**, exploring methodologies and metrics to identify and quantify potential biases against specific demographic groups or sensitive attributes. The goal was to understand the origins and manifestations of bias, and to evaluate its impact on model fairness, laying groundwork for developing more equitable and responsible AI systems. This work directly aligns with my dissertation research and published paper on ethical AI applications in healthcare.
+Dedicated to advancing responsible AI, this project provides a deep dive into how to **detect bias within machine learning models**, by exploring the methods and metrics necessary to quantify potential disparities impacting various demographic groups. The goal was to understand the origins and manifestations of bias, and to evaluate its impact on model fairness, laying groundwork for developing more equitable and responsible AI systems. This work directly aligns with my dissertation research and published paper on ethical AI applications in healthcare.
 
 **Key Features/Techniques Used:**
 * **Language:** Python 🐍
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, **Fairlearn** (or AIF360 if specifically used)
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, **Fairlearn**
 * **Techniques:**
     * Bias Definition & Categorisation (e.g., demographic parity, equalised odds)
     * Fairness Metrics Calculation (e.g., Demographic Parity Difference, Equal Opportunity Difference)
@@ -57,8 +56,7 @@ This project successfully demonstrated how to identify and measure bias in predi
 
 ### 🧠 Project: Brain Tumour Detection from MRI Scans
 
-* _University Course/Module: [Deep Learning for Medical Imaging, Applied AI Course]_
-    (Consider replacing this placeholder with the actual module name if you recall it!)
+* _University Module: [Deep Neural Networks]_
 
 **Description:**
 This project explores the application of deep learning techniques, specifically Convolutional Neural Networks (CNNs), for the classification of brain tumours from MRI images. The goal was to build a robust model capable of distinguishing between tumourous and non-tumourous scans, contributing to early detection and diagnosis.
@@ -82,21 +80,20 @@ The developed CNN model demonstrated strong generalisation capabilities in ident
 
 ### 💳 Project: Credit Card Fraud Detection
 
-* _University Course/Module: [Machine Learning, Data Mining, Financial Data Science]_
-    (Consider replacing this placeholder with the actual module name if you recall it!)
+* _University Module: [Artificial Intelligence & Machine Learning]_
 
 **Description:**
-This project focuses on building and evaluating machine learning models for **detecting fraudulent credit card transactions**. Utilizing a highly imbalanced dataset, the core challenge was to accurately identify rare fraud instances while minimizing false positives. The project involved extensive data preprocessing, exploration of various classification algorithms, and rigorous evaluation using appropriate metrics for imbalanced datasets, demonstrating expertise in handling real-world data challenges and developing robust anomaly detection systems.
+This project focuses on building and evaluating machine learning models for **detecting fraudulent credit card transactions**. Utilising a highly imbalanced dataset, the core challenge was to accurately identify rare fraud instances while minimising false positives. The project involved extensive data preprocessing, exploration of various classification algorithms, and rigorous evaluation using appropriate metrics for imbalanced datasets, demonstrating expertise in handling real-world data challenges and developing robust anomaly detection systems.
 
 **Key Features/Techniques Used:**
 * **Language:** Python 🐍
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Imbalanced-learn (or similar)
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Imbalanced-learn
 * **Techniques:**
     * Data Preprocessing (e.g., scaling, handling missing values)
     * Exploratory Data Analysis (EDA)
     * **Handling Imbalanced Datasets** (e.g., SMOTE, undersampling, cost-sensitive learning)
     * Machine Learning Models: (e.g., Logistic Regression, Random Forests, SVMs, Gradient Boosting)
-    * Model Evaluation for Imbalanced Data (e.g., Precision, Recall, F1-Score, ROC-AUC, Confusion Matrix)
+    * Model Evaluation for Imbalanced Data (e.g., Precision, Recall, F1-Score, Confusion Matrix)
     * Cross-validation
 * **Concepts:** Classification, Anomaly Detection, Supervised Learning
 
@@ -107,8 +104,7 @@ The models developed showcased strong capabilities in identifying fraudulent tra
 
 ### 🍏 Project: Obesity Risk Estimation and Analysis
 
-* _University Course/Module: [Biostatistics, Health Data Analytics, Machine Learning in Practice]_
-    (Consider replacing this placeholder with the actual module name if you recall it!)
+* _University Module: [Computing for AI ]_
 
 **Description:**
 This project focused on the development of machine learning models to estimate and analyse the risk factors associated with obesity. Leveraging a dataset containing diverse health and lifestyle metrics, the aim was to identify significant predictors of obesity and build predictive models to aid in early risk assessment and intervention strategies, contributing to understanding public health challenges.
@@ -139,7 +135,7 @@ Here's an overview of the technical skills demonstrated across these projects an
 * **Languages:** Python, Java, SQL, JavaScript, Linux, R
 * **Developer Tools:** Git, Docker, Terraform, MLFlow, Apache Airflow, Eclipse, Colab
 * **Libraries:** Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Keras, Scikit-learn, Fairlearn, Databricks, PySpark
-* **Key Skills:** Machine Learning, Data Science, Deep Learning, **Bias Mitigation**, **Ethical AI**, Reproducible Analytical Pipelines (RAPS)
+* **Key Skills:** Machine Learning, Data Science, Deep Learning, **Bias Mitigation**, **Ethical AI**, Reproducible Analytical Pipelines (RAP)
 
 ---
 
