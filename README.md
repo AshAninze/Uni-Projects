@@ -31,7 +31,7 @@ My primary aim is to develop fair, unbiased, and impactful AI systems that can a
 
 ### ⚖️ Project: Bias Detection in Machine Learning Models
 
-* _University Module: Individual Honours Project
+* _University Module: Individual Honours Project_
 
 **Description:**
 Dedicated to advancing responsible AI, this project provides a deep dive into how to **detect bias within machine learning models**, by exploring the methods and metrics necessary to quantify potential disparities impacting various demographic groups. The goal was to understand the origins and manifestations of bias, and to evaluate its impact on model fairness, laying groundwork for developing more equitable and responsible AI systems. This work directly aligns with my dissertation research and published paper on ethical AI applications in healthcare.
@@ -56,7 +56,7 @@ This project successfully demonstrated how to identify and measure bias in predi
 
 ### 🧠 Project: Brain Tumour Detection from MRI Scans
 
-* _University Module: Deep Neural Networks
+* _University Module: Deep Neural Networks_
 
 **Description:**
 This project explores the application of deep learning techniques, specifically Convolutional Neural Networks (CNNs), for the classification of brain tumours from MRI images. The goal was to build a robust model capable of distinguishing between tumourous and non-tumourous scans, contributing to early detection and diagnosis.
@@ -80,7 +80,7 @@ The developed CNN model demonstrated strong generalisation capabilities in ident
 
 ### 💳 Project: Credit Card Fraud Detection
 
-* _University Module: Artificial Intelligence & Machine Learning
+* _University Module: Artificial Intelligence & Machine Learning_
 
 **Description:**
 This project focuses on building and evaluating machine learning models for **detecting fraudulent credit card transactions**. Utilising a highly imbalanced dataset, the core challenge was to accurately identify rare fraud instances while minimising false positives. The project involved extensive data preprocessing, exploration of various classification algorithms, and rigorous evaluation using appropriate metrics for imbalanced datasets, demonstrating expertise in handling real-world data challenges and developing robust anomaly detection systems.
@@ -104,7 +104,7 @@ The models developed showcased strong capabilities in identifying fraudulent tra
 
 ### 🍏 Project: Obesity Risk Estimation and Analysis
 
-* _University Module: Computing for AI 
+* _University Module: Computing for AI_
 
 **Description:**
 This project focused on the development of machine learning models to estimate and analyse the risk factors associated with obesity. Leveraging a dataset containing diverse health and lifestyle metrics, the aim was to identify significant predictors of obesity and build predictive models to aid in early risk assessment and intervention strategies, contributing to understanding public health challenges.
