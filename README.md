@@ -18,12 +18,12 @@ My primary aim is to develop fair, unbiased, and impactful AI systems that can a
 
 ## 📚 Table of Contents
 
-* [Project: Bias Detection in Machine Learning Models]()
-* [Project: Brain Tumour Detection from MRI Scans](#project-brain-tumour-detection-from-mri-scans)
-* [Project: Credit Card Fraud Detection](#project-credit-card-fraud-detection)
-* [Project: Obesity Risk Estimation and Analysis](#project-project-obesity-risk-estimation-and-analysis)
-* [Technical Skills](#technical-skills)
-* [Connect With Me](#connect-with-me)
+* [Project: Bias Detection in Machine Learning Models](https://github.com/AshAninze/Uni-Projects/tree/main?tab=readme-ov-file#%EF%B8%8F-project-bias-detection-in-machine-learning-models)
+* [Project: Brain Tumour Detection from MRI Scans](https://github.com/AshAninze/Uni-Projects/tree/main?tab=readme-ov-file#-project-brain-tumour-detection-from-mri-scans)
+* [Project: Credit Card Fraud Detection](https://github.com/AshAninze/Uni-Projects/tree/main?tab=readme-ov-file#-project-credit-card-fraud-detection)
+* [Project: Obesity Risk Estimation and Analysis](https://github.com/AshAninze/Uni-Projects/tree/main?tab=readme-ov-file#-project-obesity-risk-estimation-and-analysis)
+* [Technical Skills](https://github.com/AshAninze/Uni-Projects/tree/main?tab=readme-ov-file#%EF%B8%8F-technical-skills)
+* [Connect With Me](https://github.com/AshAninze/Uni-Projects/tree/main?tab=readme-ov-file#-connect-with-me)
 
 ---
 
@@ -147,6 +147,6 @@ Here's an overview of the technical skills demonstrated across these projects an
 
 I'm always open to discussing data science, AI, and ethical applications in healthcare. Feel free to connect!
 
-* [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+* [LinkedIn](https://uk.linkedin.com/in/ashionye-a-6a26ba205)
 * [Email](mailto:aaaninze@gmail.com)
-* [ORCID](https://orcid.org/your-orcid-id)
+* [ORCID](https://orcid.org/0009-0007-8902-367X)
