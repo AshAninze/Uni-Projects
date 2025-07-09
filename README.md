@@ -6,7 +6,7 @@ This repository serves as a dynamic portfolio showcasing my academic projects co
 
 It highlights my practical skills in a wide array of data science and AI domains, including:
 * Data Cleaning & Preprocessing 🧹
-* Exploratory Data Analysis (EDA) & Visualization 📊
+* Exploratory Data Analysis (EDA) & Visualisation 📊
 * Machine Learning & Deep Learning Model Development 🧠
 * **Responsible AI & Bias Mitigation** ⚖️ (a key area of interest and expertise, as demonstrated by my dissertation and accepted publication)
 * Handling Imbalanced Datasets 💪
@@ -42,7 +42,7 @@ This critical project delves deep into **bias detection within machine learning 
 * **Language:** Python 🐍
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, **Fairlearn** (or AIF360 if specifically used)
 * **Techniques:**
-    * Bias Definition & Categorization (e.g., demographic parity, equalized odds)
+    * Bias Definition & Categorisation (e.g., demographic parity, equalised odds)
     * Fairness Metrics Calculation (e.g., Demographic Parity Difference, Equal Opportunity Difference)
     * Sensitive Attribute Identification & Analysis
     * Data Preprocessing for Fairness (e.g., reweighing)
@@ -68,16 +68,16 @@ This project explores the application of deep learning techniques, specifically 
 * **Language:** Python 🐍
 * **Libraries:** Keras, TensorFlow, Matplotlib
 * **Techniques:**
-    * Image Preprocessing (resizing, normalization)
+    * Image Preprocessing (resising, normalisation)
     * **Data Augmentation** (rotation, scaling, flipping to increase dataset diversity by 25% for improved robustness)
     * Convolutional Neural Networks (CNNs) for image classification
     * Model Training and Validation
     * Performance Evaluation (Accuracy, Precision, Recall, F1-Score, Confusion Matrix)
-    * Optimizing CNN layers (dropout, normalisation, activation functions)
+    * Optimising CNN layers (dropout, normalisation, activation functions)
 * **Tools:** Google Colaboratory (Colab)
 
 **Results/Insights:**
-The developed CNN model demonstrated strong generalization capabilities in identifying tumour cases, showcasing the effectiveness of deep learning for medical image analysis.
+The developed CNN model demonstrated strong generalisation capabilities in identifying tumour cases, showcasing the effectiveness of deep learning for medical image analysis.
 
 ➡️ [View Jupyter Notebook](https://github.com/AshAninze/Uni-Projects/blob/main/Tumour_MRI.ipynb)
 
@@ -112,17 +112,17 @@ The models developed showcased strong capabilities in identifying fraudulent tra
     (Consider replacing this placeholder with the actual module name if you recall it!)
 
 **Description:**
-This project focused on the development of machine learning models to estimate and analyze the risk factors associated with obesity. Leveraging a dataset containing diverse health and lifestyle metrics, the aim was to identify significant predictors of obesity and build predictive models to aid in early risk assessment and intervention strategies, contributing to understanding public health challenges.
+This project focused on the development of machine learning models to estimate and analyse the risk factors associated with obesity. Leveraging a dataset containing diverse health and lifestyle metrics, the aim was to identify significant predictors of obesity and build predictive models to aid in early risk assessment and intervention strategies, contributing to understanding public health challenges.
 
 **Key Features/Techniques Used:**
 * **Language:** Python 🐍
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 * **Techniques:**
-    * Data Preprocessing & Cleaning (e.g., label encoding, standardization)
-    * Exploratory Data Analysis (EDA) & Data Visualization
+    * Data Preprocessing & Cleaning (e.g., label encoding, standardisation)
+    * Exploratory Data Analysis (EDA) & Data Visualisation
     * Feature Selection/Engineering
     * Machine Learning Models: **Random Forest** (achieved 99.29% accuracy), and comparative analysis of other algorithms
-    * Model Optimization using randomized search cross-validation
+    * Model Optimisation using randomised search cross-validation
     * Model Evaluation (Precision, Recall, F1-score)
 * **Concepts:** Classification, Public Health Data Analysis, Predictive Modeling in Healthcare.
 
