@@ -12,7 +12,7 @@ It highlights my practical skills in a wide array of data science and AI domains
 * Handling Imbalanced Datasets 💪
 * Applying AI/ML to Real-World Problems, particularly in Healthcare 🏥
 
-My primary aim is to develop fair, unbiased, and impactful AI systems that can address significant challenges, especially within the health sector.
+My primary aim is to develop fair, unbiased, and impactful AI systems that can address significant social challenges.
 
 ---
 
@@ -34,7 +34,7 @@ My primary aim is to develop fair, unbiased, and impactful AI systems that can a
 * _University Module: Individual Honours Project_
 
 **Description:**
-Dedicated to advancing responsible AI, this project provides a deep dive into how to **detect bias within machine learning models**, by exploring the methods and metrics necessary to quantify potential disparities impacting various demographic groups. The goal was to understand the origins and manifestations of bias, and to evaluate its impact on model fairness, laying groundwork for developing more equitable and responsible AI systems. This work directly aligns with my dissertation research and published paper on ethical AI applications in healthcare.
+Dedicated to advancing responsible AI, this project provides a deep dive into how to **detect bias within machine learning models**, by exploring the methods and metrics necessary to quantify potential disparities impacting various demographic groups. The goal was to understand the origins and manifestations of bias, and to evaluate its impact on model fairness, laying groundwork for developing more equitable and responsible AI systems. This work directly aligns with my dissertation research and published paper on ethical AI applications.
 
 **Key Features/Techniques Used:**
 * **Language:** Python 🐍
@@ -141,7 +141,7 @@ Here's an overview of the technical skills demonstrated across these projects an
 
 ## 📞 Connect With Me
 
-I'm always open to discussing data science, AI, and ethical applications in healthcare. Feel free to connect!
+I'm always open to discussing data science, AI, and ethical applications. Feel free to connect!
 
 * [LinkedIn](https://uk.linkedin.com/in/ashionye-a-6a26ba205)
 * [Email](mailto:aaaninze@gmail.com)
