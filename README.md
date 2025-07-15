@@ -1,4 +1,4 @@
-# 🚀 University Projects Portfolio - Ashionye Aninze
+# 🚀 University Projects Portfolio
 
 _MSc Artificial Intelligence | BSc Computer & Data Science_
 
